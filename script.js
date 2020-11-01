@@ -8,7 +8,7 @@ const WIDTH_ANIMATION = true;
 
 const TRACTORS_NUMBER = 10;
 
-const DELAY_TIMEOUT = 0;
+const DELAY_TIMEOUT = 100;
 
 const COLUMNS = 101;
 const ROWS = 101;
