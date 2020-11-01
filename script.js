@@ -6,7 +6,7 @@ const BACKGROUND_COLOR = 'gray';
 const TRACTOR_COLOR = 'red';
 const WIDTH_ANIMATION = true;
 
-const TRACTORS_NUMBER = 10;
+const TRACTORS_NUMBER = 1;
 
 const DELAY_TIMEOUT = 1000;
 
