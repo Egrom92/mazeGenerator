@@ -4,11 +4,11 @@ const WALL_COLOR = 'black';
 const FREE_COLOR = 'white';
 const BACKGROUND_COLOR = 'gray';
 const TRACTOR_COLOR = 'red';
-const WIDTH_ANIMATION = false;
+const WIDTH_ANIMATION = true;
 
-const TRACTORS_NUMBER = 10;
+const TRACTORS_NUMBER = 1;
 
-const DELAY_TIMEOUT = 100;
+const DELAY_TIMEOUT = 1000;
 
 const COLUMNS = 101;
 const ROWS = 101;
