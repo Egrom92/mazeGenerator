@@ -4,7 +4,7 @@ const WALL_COLOR = 'black';
 const FREE_COLOR = 'white';
 const BACKGROUND_COLOR = 'gray';
 const TRACTOR_COLOR = 'red';
-const WIDTH_ANIMATION = true;
+const WIDTH_ANIMATION = false;
 
 const TRACTORS_NUMBER = 10;
 
